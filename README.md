@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @humza1201
-- 👀 I’m interested in ... hacking ... infact im gonna start ethical hackin after im done with my c++ course 
-- 🌱 I’m currently learning ... c++ with harry
-- 💞️ I’m looking to collaborate on ... hacktober fest and smart india hackathon
+- 👀 I’m interested in ... hacking ... infact im gonna start ethical hackin after im done with my basics of programming languages.
+- 🌱 I know c++,java they are my fav languages to work with.
 - 📫 How to reach me ... my email id - humza.wasim18@gmail.com 
 
 <!---
