@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @humza1201
-- 👀 I’m interested in ... hacking ...web developent infact im  gonna start ethical hackin after im done with my basics of programming languages.
+- 👀 I’m interested in ...cyber security...web developent...game development... im done with my basics of programming languages.
 - 🌱 I know c++,java , html , css they are my fav languages to work with.
 - 📫 How to reach me ... my email id - humza.wasim18@gmail.com 
