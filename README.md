@@ -6,7 +6,7 @@ I'm a passionate developer with a love for building full-stack applications and 
 Currently, I'm learning C++ and full stach web development and sharing my progress on Twitter, while also contributing to exciting projects in the Google Developer Group as a Co-Head of Public Relations.
 
 Tech Stack:
-JavaScript | React | Node.js | SQL | Java | C++ (learning)
+JavaScript | HTML | Css | SQL | Java | C++ 
 
 Always open to collaboration, learning, and new challenges!
 
